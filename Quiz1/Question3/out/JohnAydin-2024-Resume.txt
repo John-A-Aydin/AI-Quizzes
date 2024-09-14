@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+John Alexander Aydin 
+
+johnaaydin@gmail.com | (843) 906-0104 | linkedin.com/in/johnaaydin | github.com/john-a-aydin 
+Career Summary 
+
+Computer Engineering student with a strong passion for math and programming. Equipped with a solid 
+foundation in algorithms, systems design, and software development. Proficient in C++, Golang, and 
+Typescript, with a keen interest in applying mathematical concepts to solve complex problems. Eager to 
+contribute to innovative projects and advance technology in dynamic environments. 
+
+Skills 
+
+C++ | Rust | Java | Typescript | Golang | Python | Linux | Git | React | Next.js | tRPC | SQL | Docker | 
+System Verilog | Windows Programming | AWS S3 | AWS IAM | Web Development | CUDA | ROS | 
+
+MATLAB | R  
+
+Projects 
+
+Good Eats                         2023 
+good-eats-tawny.vercel.app 
+
+Recipe sharing website built with Next.js, tRPC, S3, React, and Typescript. 
+
+Key Learnings and Accomplishments: 
+
+● Learned the importance of data modeling, documenting changes, and setting a scope when 
+implementing a large application 
+
+● Utilized Chrome DevTools to debug and test code 
+
+Robot Capture the Flag Simulation          2024 
+github.com/John-A-Aydin/robot-capture-the-flag 
+
+Simulation of Jane Street’s Robot Capture the Flag problem built in C++ and CUDA. 
+
+Key Learnings and Accomplishments: 
+
+● Utilized CUDA in a compute intensive problem to increase speed by over 1,000% 
+
+● Clearly documented the reasoning for a solution to a complex problem 
+
+Elden Ring Save Manager            2024 
+github.com/John-A-Aydin/er-save-manager 
+
+Save file manager that lets users swap save files with a simple GUI. 
+Key Learnings and Accomplishments: 
+
+● Gained experience in Windows APIs, data types, and the Windows Registry 
+
+Work Experience 
+
+Server’s Assistant             2023 
+
+82 Queen 
+
+Managed the flow of dishes during services exceeding 600 customers, learning valuable teamwork, 
+communication, and conflict resolution skills. 
+
+Education 
+
+Bachelor of Science in Computer Engineering, University of South Carolina                2025 
+
+GPA: 3.7 
+
+Relevant Courses: Data Structures and Algorithms | Artificial Intelligence | Computer Architecture | 
+Operating Systems | Statistics for Engineers | Unix Fundamentals | Embedded Systems | Linear Algebra | 
+Computer Networks | Advanced Digital Design 
+
+
